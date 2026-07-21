@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img width="720" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
+<img width="720" src="study.jpeg" alt="Sharath studying AI">
 
 </div>
 
